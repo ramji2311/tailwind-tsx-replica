@@ -1,5 +1,4 @@
-
-import { MessageSquare, Mic, Gamepad2, Zap, Shield, Globe } from "lucide-react";
+import { MessageSquare, Mic, Gamepad2, Zap, Shield, Globe, ArrowDown } from "lucide-react";
 
 export const Features = () => {
   const features = [
